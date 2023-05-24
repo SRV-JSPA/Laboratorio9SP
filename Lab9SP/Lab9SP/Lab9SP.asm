@@ -10,4 +10,4 @@
 .stack 4096
 
 .data
-
+p DWORD 5
